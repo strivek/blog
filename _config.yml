@@ -10,12 +10,14 @@ author:
 # 站点信息
 title: strivek的blog
 description: My personal blog
-url: http://painterlin.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/img/icon/head.png
 favicon: /public/img/icon/head.png
+
+# 基础路径
+baseUrl:/blog
 
 
 
