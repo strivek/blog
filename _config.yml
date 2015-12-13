@@ -13,8 +13,8 @@ description: My personal blog
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/icon/head.png
-favicon: /public/img/icon/head.png
+gavatar: /blog/public/img/icon/head.png
+favicon: /blog/public/img/icon/head.png
 
 # 基础路径
 baseUrl:/blog
