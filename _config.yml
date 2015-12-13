@@ -11,13 +11,12 @@ author:
 title: strivek的blog
 description: My personal blog
 rss_url: /pages/atom.xml
-
+baseurl: /blog
 # gavatar头像及Favicon
 gavatar: /blog/public/img/icon/head.png
 favicon: /blog/public/img/icon/head.png
 
-# 基础路径
-baseurl:/blog
+
 
 
 
