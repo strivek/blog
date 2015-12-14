@@ -39,3 +39,11 @@ gems: [jekyll-paginate]
 
 redcarpet:
   extensions: []
+sass:
+  sass_dir: public/css/bootstrap/
+  style: compressed
+
+comments :
+    provider : duoshuo
+    duoshuo : 
+      short_name : havee
