@@ -48,9 +48,12 @@ body, html {
   /*background-image: url(/public/img/body_bg.jpg);*/
   background-color: #303030;
 }
-
+.pjaxlink{
+  text-align: center;
+  display: block;
+}
 .avatar {
-  width: 56px;
+  width: 90%;
   /*height: 90px;*/
   border: 0px solid #fff;
 }
@@ -95,6 +98,7 @@ body, html {
   color: #303030;
 }
 .aside3-content {
+  margin-top: 20px;
 /*  padding-left: 40px;
   padding-right: 40px;
 */  
